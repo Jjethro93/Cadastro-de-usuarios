@@ -32,6 +32,7 @@ async function registerNewUser(){
   })
 
   navigate('/lista-de-usuarios')
+  console.log(data)
 }
 
   return (
