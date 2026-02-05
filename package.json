@@ -19,8 +19,8 @@
     "react-router-dom": "^7.9.4",
     "styled-components": "^6.1.19",
     "yarn": "^1.22.22",
-    "predeploy":"yarn run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy":"yarn build",
+    "deploy":"gh-pages -d bluid"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
